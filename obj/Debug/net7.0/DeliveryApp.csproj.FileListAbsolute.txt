@@ -1,0 +1,14 @@
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\bin\Debug\net7.0\DeliveryApp.exe
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\bin\Debug\net7.0\DeliveryApp.deps.json
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\bin\Debug\net7.0\DeliveryApp.runtimeconfig.json
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\bin\Debug\net7.0\DeliveryApp.dll
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\bin\Debug\net7.0\DeliveryApp.pdb
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\obj\Debug\net7.0\DeliveryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\obj\Debug\net7.0\DeliveryApp.AssemblyInfoInputs.cache
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\obj\Debug\net7.0\DeliveryApp.AssemblyInfo.cs
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\obj\Debug\net7.0\DeliveryApp.csproj.CoreCompileInputs.cache
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\obj\Debug\net7.0\DeliveryApp.dll
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\obj\Debug\net7.0\refint\DeliveryApp.dll
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\obj\Debug\net7.0\DeliveryApp.pdb
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\obj\Debug\net7.0\DeliveryApp.genruntimeconfig.cache
+C:\Users\NEW STAR\Source\Repos\Delivery-console-app\obj\Debug\net7.0\ref\DeliveryApp.dll

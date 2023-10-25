@@ -7,6 +7,6 @@
         public string Address { get; set; }
         public DeliveryStatus DeliveryStatus { get; set; }
 
-        
+       
     }
 }

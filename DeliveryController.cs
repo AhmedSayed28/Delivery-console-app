@@ -10,7 +10,27 @@ namespace DeliveryApp
 {
     public class DeliveryController
     {
-        private readonly static Random random = new Random(); 
+        private readonly static Random random = new Random();
+
+        private DeliveryController(Delivery delivery)
+        {
+            Start(delivery);
+        }
+        private static Lazy<DeliveryController> _instance = new Lazy<DeliveryController>(() => new DeliveryController(new Delivery()));
+
+        public static DeliveryController Instance
+        {
+            get
+            {
+                if (_instance is null)
+                {
+                    _instance = new();
+                    
+                }
+                return _instance.Value;
+            }
+        }
+
         public void Start(Delivery delivery)
         {
             try
